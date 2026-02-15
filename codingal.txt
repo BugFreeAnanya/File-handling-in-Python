@@ -1,0 +1,5 @@
+This file is in write mode.This will overwrite the previous content.
+ This file is in append mode.This will add content to existing file.
+ gdwhwhrhhhh
+ sgdegjdgguy
+ yuytreghabda
