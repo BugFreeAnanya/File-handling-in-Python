@@ -1,0 +1,5 @@
+Coding involves breaking down complex issues into smaller, manageable, and logical instructions.
+It requires a blend of analytical thinking to structure data and creativity to build user-friendly applications.
+Coding is the art of writing, testing, and maintaining instructions—using languages like Python, Java, or C++—that tell computers how to perform specific tasks, from powering websites to managing AI.
+Coding is telling a computer what to do, in a way that, with a bit of translation, it can understand. 
+It is the process of creating step-by-step instructions that tell a computer, app, or website what to do.
