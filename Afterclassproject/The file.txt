@@ -1,0 +1,5 @@
+Python is a popular, general-purpose programming language widely used for various projects.
+Python's clean, indented syntax makes it easy to learn, read, and maintain, even for beginners.
+Python is a text-based programming language suitable for kids to learn. It is one of the most popular programming languages.
+Python can be used on a server to create web applications.
+Python has a simple syntax similar to the English language.
