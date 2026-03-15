@@ -1,0 +1,6 @@
+Analysis involves a detailed examination of all the structures or elements of the problem in front
+Algorithm is a step by step procedure for solving a problem
+Computational thinking is a problem solving procedure which helps user to understand and interpret the problem and solve them
+Decomposition is the process of broking down the problem into logical subparts
+Analysis involves a detailed examination of all the structures or elements of problem in front
+Algorithm is a step by step procedure for dolving a problem
